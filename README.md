@@ -11,5 +11,5 @@ sequences, provided with a sort & filtering tool (by protocol, sequence, date an
 Full support for the Mayo Clinic Analyze 7.5 format was also added.
 
 ### Python version
-Migration to Python has begun!
+Migration to Python has begun!  
 https://github.com/mcaffini/Project-Beat---Python
