@@ -1,7 +1,7 @@
 # Project-Beat---Matlab
 ### A set of tools and a GUI for Bruker data in Matlab
 
-Project BEAT (Bruker Edit and Analyze Tools) is cross-platform (Windows/Mac/Linux) set of tools for the visualization and
+Project BEAT (Bruker Edit and Analyze Tools) is a cross-platform (Windows/Mac/Linux) set of tools for the visualization and
 analysis of Bruker data (images, volumes and spectra), originally written in Matlab.
 BEAT also provides tools for data conversion (Bruker, Analyze 7.5, NIfTI, DICOM and other standardized formats).
 
